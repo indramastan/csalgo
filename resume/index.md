@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-####Achievements
+#### Achievements
  -  All India Rank - 63, GATE 2011.
  - Represented my team and won Sellers Choice Award in Innovation Fest @Amazon Hyderabad, 2015.
  - Awarded for The Most complete idea in asda@labs (Teams @ WalmartLabs), 2014.
