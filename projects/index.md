@@ -3,7 +3,7 @@ layout: page
 title: Patents + Projects 
 ---
 
-### List of Patents
+### List of Patents:
 
 #### Product browsing system and method 
 - Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg
