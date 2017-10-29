@@ -1,6 +1,6 @@
 ---
 layout: page
-
+title: Patents + Projects 
 ---
 
 ### *List of Patents:*
