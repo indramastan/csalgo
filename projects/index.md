@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Projects and Patents
+
 ---
 
 ### *List of Patents:*
 
 #### Product browsing system and method 
-Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg
+- Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg
 
 #### Electronic Shopping Cart Processing System And Method 
-Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg 
+- Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg 
 
 
 ### *List of Projects:*
@@ -17,7 +17,7 @@ Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pra
 
 *Dr. Deepak D’Souza (Associate Professor), CSA IISC*
 
-Explored the applicability of techniques based on symbolic execution and learning for assertion checking in Z-models. Proposed Techniques for converting different structures of Z-modelling language to Z3 (smt solver) data types.
+- Explored the applicability of techniques based on symbolic execution and learning for assertion checking in Z-models. Proposed Techniques for converting different structures of Z-modelling language to Z3 (smt solver) data types.
 
 
 
@@ -25,7 +25,7 @@ Explored the applicability of techniques based on symbolic execution and learnin
 
 *Dr. K.V.Raghavan (Assistant Professor), CSA IISC*
 
-Implemented an Intra-procedural data flow analysis for detecting null dereference bugs in JAVA programs with high precision.
+- Implemented an Intra-procedural data flow analysis for detecting null dereference bugs in JAVA programs with high precision.
 We used SOOT (data analysis framework) in JAVA which implements Kildalls algorithm.
 
 
@@ -34,7 +34,7 @@ We used SOOT (data analysis framework) in JAVA which implements Kildalls algorit
 
 *Dr. Jayant R. Haritsa (Senior Professor), CSA IISc*
 
-Developed single user RDBMS, having three layer architecture using C
+- Developed single user RDBMS, having three layer architecture using C
 
 
 
@@ -42,4 +42,4 @@ Developed single user RDBMS, having three layer architecture using C
 
 *Dr. Sandeep Kumar Singh (Assistant Professor), JIIT Noida*
 
-Developed a tool to generate test cases automatically (sequence of transitions) for a given state diagram.
+- Developed a tool to generate test cases automatically (sequence of transitions) for a given state diagram.
