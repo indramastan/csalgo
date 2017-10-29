@@ -3,7 +3,7 @@ layout: page
 title: Patents + Projects 
 ---
 
-### *List of Patents:*
+### __**List of Patents:**__
 
 #### Product browsing system and method 
 - Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg
@@ -12,7 +12,8 @@ title: Patents + Projects
 - Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg 
 
 
-### *List of Projects:*
+### __**List of Projects:**__
+
 #### Extending Synergy for Verication of Z models
 
 *Dr. Deepak D’Souza (Associate Professor), CSA IISC*
