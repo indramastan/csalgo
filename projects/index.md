@@ -1,8 +1,16 @@
 ---
 layout: page
-title: Projects
+title: Projects and Patents
 ---
 
+### *List of Patents:*
+
+#### Product browsing system and method, Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg
+
+#### Electronic Shopping Cart Processing System And Method, Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg 
+
+
+### *List of Projects:*
 #### Extending Synergy for Verication of Z models
 
 *Dr. Deepak D’Souza (Associate Professor), CSA IISC*
