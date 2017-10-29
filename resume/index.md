@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Resume
+title: 
 ---
 
-#### Achievements
- - All India Rank - 63, GATE 2011.
+**Achievements**
+ - *All India Rank - 63, GATE 2011.*
  - Represented my team and won Sellers Choice Award in Innovation Fest @Amazon Hyderabad, 2015.
  - Awarded for The Most complete idea in asda@labs (Teams @ WalmartLabs), 2014.
  - Filed two patents for an idea of enhanced online check-out experience @ WalmartLabs, 2014.
@@ -12,19 +12,16 @@ title: Resume
  
 
 
-#### Work Experience
+**Work Experience**
 
-##### Adobe
+1. Adobe
+ - July 2016 - Present
 
-July 2016 - Present
+2. Amazon
+ - April 2015 - July 2016
 
-##### Amazon
-
-April 2015 - July 2016
-
-##### Walmart
-
-August 2013 - March 2015
+3. Walmart
+ - August 2013 - March 2015
 
 Please find my full CV **here**.
 
