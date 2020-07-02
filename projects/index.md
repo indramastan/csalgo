@@ -3,14 +3,21 @@ layout: page
 title: 
 ---
 
- **List of Patents:**
+**Achievements**
+
+1. Filed a patent for the new proposed signing workflow @ ADOBE, 2016.
+2. Co-Inventor of two patents for an idea of enhanced online check out experience @ WalmartLabs, 2014.
+3. Represented my team and won Sellers Choice Award in Innovation Fest @Amazon Hyderabad, 2015.
+4. All India Rank - 63, GATE 2011.
+
+
+ **Details of Patents:**
 
 1. Product Browsing System And Method 
   - Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg
 
 2. Electronic Shopping Cart Processing System And Method 
   - Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg 
-
 
 
 **List of Projects:**
