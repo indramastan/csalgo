@@ -9,6 +9,7 @@ title:
 2. Co-Inventor of two patents for an idea of enhanced online check out experience @ WalmartLabs, 2014.
 3. Represented my team and won Sellers Choice Award in Innovation Fest @Amazon Hyderabad, 2015.
 4. All India Rank - 63, GATE 2011.
+5. Topped Ghaziabad District, 12th Class, 2007.
 
 
  **Details of Patents:**
@@ -20,7 +21,7 @@ title:
   - Original Assignee:	Wal-Mart Stores Inc., Inventors:	Hemanth Kumar Narayanan, Pravat Ranjan Rana, Bhaavan Merchant, Aastha Garg 
 
 
-**List of Projects:**
+**List of Acadamic Projects:**
 
 1. Extending Synergy for Verication of Z models
   - Explored the applicability of techniques based on symbolic execution and learning for assertion checking in Z-models. Proposed Techniques for converting different structures of Z-modelling language to Z3 (smt solver) data types. (*Dr. Deepak D’Souza, CSA IISC*)
