@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-This is a contact page.
+Email Id: aasthag4@gmail.com
